@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// https://github.com/Arnuma?tab=repositories
+// https://github.com/Arnuma/c-_firstprj
 
 main()
 {
